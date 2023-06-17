@@ -6,10 +6,9 @@
           <NuxtLink to="#home" class="text-white text-2xl">Dwiyan Yogaswara</NuxtLink>
           <ul class="flex gap-5 text-white font-medium">
             <li><NuxtLink to="#home" class="hover:font-bold hover:text-l">Home</NuxtLink></li>
+            <li><NuxtLink to="#skills" class="hover:font-bold hover:text-l">Skills</NuxtLink></li>
             <li><NuxtLink to="#work" class="hover:font-bold hover:text-l">Work Experience</NuxtLink></li>
             <li><NuxtLink to="#portfolio" class="hover:font-bold hover:text-l">Portfolio</NuxtLink></li>
-            <li><NuxtLink to="#skills" class="hover:font-bold hover:text-l">Skills</NuxtLink></li>
-            <li><NuxtLink to="#education" class="hover:font-bold hover:text-l">Education</NuxtLink></li>
           </ul>
         </nav>
       </header>
