@@ -20,7 +20,7 @@
               class="rounded-lg shadow-md p-3 mt-5 mb-5 w-3/5 bg-gradient-to-r from-blue-400 to-blue-900"
             >
               <div class="flex flex-row content-between">
-                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce ">
+                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce">
                   <img src="assets\images\linkedin-icon.png" alt="" />
                 </div>
                 <div class="p-2 w-[200px] h-[200px] hover:animate-bounce">
@@ -37,9 +37,7 @@
           </div>
         </section>
         <section id="skills" class="mb-8 scroll-mt-20">
-          <h1 class="mb-4 text-2xl font-bold text-center">
-            My Skills
-          </h1>
+          <h1 class="mb-4 text-2xl font-bold text-center">My Skills</h1>
           <div
             class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900"
           >
@@ -119,38 +117,145 @@
             </div>
           </div>
         </section>
-        <section id="work" class="mb-8 scroll-mt-20">
-          <h1 class="mb-4 text-2xl font-bold text-center">Work Section</h1>
-          <div class=""></div>
+        <section id="work" class="mb-8 scroll-mt-20 h-screen">
+          <h1 class="mb-4 text-2xl font-bold text-center">Work Experience</h1>
+          <div class="grid grid-cols-4 gap-10 text-left">
+            <div
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+            >
+              <div class="text-center">Oct 2019 - Dec 2020</div>
+
+              <div class="border-b-2 border-grey[600] my-2"></div>
+              <div class="grid grid-cols-3 text-sm">
+                <div class="col-span-1">
+                  <div>Company</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: PT Jasamedika Saranatama</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Title</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Programmer Site</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Job desc</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Developed Management System for Hospital</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Technology</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: AngularJS, Laravel, MSSQL</div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+            >
+              <div class="text-center">Jan 2021 - Jun 2022</div>
+
+              <div class="border-b-2 border-grey[600] my-2"></div>
+              <div class="grid grid-cols-3 text-sm">
+                <div class="col-span-1">
+                  <div>Company</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: PT Visi Multimedia Aditama</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Title</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: API Dev</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Job desc</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Developed API for rschooltoday.com</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Technology</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Codeigniter, MySQL</div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+            >
+              <div class="text-center">Oct 2022 - Feb 2023</div>
+
+              <div class="border-b-2 border-grey[600] my-2"></div>
+              <div class="grid grid-cols-3 text-sm">
+                <div class="col-span-1">
+                  <div>Company</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: PT E-Property Batavianet</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Title</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: .NET Dev</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Job desc</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Developed Management System for Property Developer</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Technology</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: C# .NET, MSSQL</div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+            >
+              <div class="text-center">Feb 2023 - Now</div>
+
+              <div class="border-b-2 border-grey[600] my-2"></div>
+              <div class="grid grid-cols-3 text-sm">
+                <div class="col-span-1">
+                  <div>Company</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: PT Indomarco Prismatama</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Title</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: .NET Dev</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Job desc</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: Developed Distribution Center (DC) for retail company</div>
+                </div>
+                <div class="col-span-1">
+                  <div>Technology</div>
+                </div>
+                <div class="col-span-2">
+                  <div>: VB .NET, Oracle</div>
+                </div>
+              </div>
+            </div>
+          </div>
         </section>
         <section id="portfolio" class="mb-8 scroll-mt-20">
           <h1 class="mb-4 text-2xl font-bold text-center">portfolio Section</h1>
-          <div class="grid grid-cols-1 gap-4 lg:grid-cols-3 sm:grid-cols-2">
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-            <img
-              class="object-cover w-full border"
-              src="https://cdn.pixabay.com/photo/2018/05/08/14/34/lightweight-transporter-3383177__340.png"
-            />
-          </div>
         </section>
       </main>
     </div>
