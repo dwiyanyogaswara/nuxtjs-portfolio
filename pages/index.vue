@@ -2,35 +2,34 @@
   <div>
     <div class="container mx-auto">
       <main>
-        <section id="home" class="mb-8 scroll-mt-20 grid lg:grid-cols-3">
-          <div class="col-span-1 p-16">
-            <div class="rounded-full overflow-hidden">
+        <section id="home" class="mb-5 scroll-mt-20 h-screen">
+          <div class="p-5">
+            <div class="rounded-full overflow-hidden w-1/6 mx-auto">
               <img
                 src="assets\images\linkedin.jpg"
                 class="object-cover w-full h-full"
               />
             </div>
           </div>
-          <div class="col-span-2">
-            <h1 class="mb-4 text-2xl font-bold text-center">Home Section</h1>
-            <div class="text-center text-xl">
+          <div class="flex flex-col items-center">
+            <div class="text-center text-2xl text-white">
               Hi, my name is Dwiyan Yogaswara. I am a software engineer based in
               Jakarta, Indonesia. I specialize in web and android application.
             </div>
             <div
-              class="rounded-lg shadow-md p-6 mt-10 mb-5 bg-gradient-to-r from-blue-400 to-blue-900"
+              class="rounded-lg shadow-md p-3 mt-5 mb-5 w-3/5 bg-gradient-to-r from-blue-400 to-blue-900"
             >
-              <div class="flex flex-row w-2/3">
-                <div class="p-2 w-1/2 hover:animate-bounce ">
+              <div class="flex flex-row content-between">
+                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce ">
                   <img src="assets\images\linkedin-icon.png" alt="" />
                 </div>
-                <div class="p-2 w-1/2 hover:animate-bounce">
+                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce">
                   <img src="assets\images\whatsapp.png" alt="" />
                 </div>
-                <div class="p-2 w-1/2 hover:animate-bounce">
+                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce">
                   <img src="assets\images\github.png" alt="" />
                 </div>
-                <div class="p-2 w-1/2 hover:animate-bounce">
+                <div class="p-2 w-[200px] h-[200px] hover:animate-bounce">
                   <img src="assets\images\CV.png" alt="" />
                 </div>
               </div>
@@ -39,7 +38,7 @@
         </section>
         <section id="skills" class="mb-8 scroll-mt-20">
           <h1 class="mb-4 text-2xl font-bold text-center">
-            Our skills Section
+            My Skills
           </h1>
           <div
             class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900"
