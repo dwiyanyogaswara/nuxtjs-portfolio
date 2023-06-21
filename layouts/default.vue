@@ -3,8 +3,8 @@
     <div class="fixed top-0 left-0 right-0 z-10">
       <header class="shadow-2xl bg-gradient-to-r from-blue-800 to-blue-950">
         <nav class="container p-5 mx-auto flex justify-between">
-          <NuxtLink to="#home" class="text-white text-2xl">Dwiyan Yogaswara</NuxtLink>
-          <ul class="flex gap-5 font-medium">
+          <NuxtLink to="#home" class="text-white text-2xl tracking-widest">Dwiyan Yogaswara</NuxtLink>
+          <ul class="flex gap-5 font-medium  tracking-widest">
             <li><NuxtLink to="#home" class="hover:font-bold hover:text-l">Home</NuxtLink></li>
             <li><NuxtLink to="#skills" class="hover:font-bold hover:text-l">Skills</NuxtLink></li>
             <li><NuxtLink to="#work" class="hover:font-bold hover:text-l">Work Experience</NuxtLink></li>
