@@ -8,7 +8,7 @@
             <li><NuxtLink to="#home" class="hover:font-bold hover:text-l">Home</NuxtLink></li>
             <li><NuxtLink to="#skills" class="hover:font-bold hover:text-l">Skills</NuxtLink></li>
             <li><NuxtLink to="#work" class="hover:font-bold hover:text-l">Work Experience</NuxtLink></li>
-            <li><NuxtLink to="#portfolio" class="hover:font-bold hover:text-l">Portfolio</NuxtLink></li>
+            <!-- <li><NuxtLink to="#portfolio" class="hover:font-bold hover:text-l">Portfolio</NuxtLink></li> -->
           </ul>
         </nav>
       </header>
