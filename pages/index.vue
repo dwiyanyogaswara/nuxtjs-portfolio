@@ -58,7 +58,7 @@
           <h1 class="mb-4 text-2xl font-bold text-center tracking-widest">My Skills</h1>
           <div class="grid lg:grid-cols-3 gap-8">
             <div
-              class="col-span-1 rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900"
+              class="col-span-1 rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900 hover:from-indigo-400 hover:to-indigo-800"
             >
               <h3 class="mb-4 text-2xl font-bold text-center tracking-widest">Mobile</h3>
               <div class="grid grid-cols-1">
@@ -68,7 +68,7 @@
               </div>
             </div>
             <div
-              class="col-span-2 rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900"
+              class="col-span-2 rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900 hover:from-indigo-400 hover:to-indigo-800"
             >
               <h3 class="mb-4 text-2xl font-bold text-center tracking-widest">Frontend</h3>
               <div class="grid grid-cols-3">
@@ -92,7 +92,7 @@
 
           <div class="grid lg:grid-cols-2 gap-8">
             <div
-              class="rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900"
+              class="rounded-lg shadow-md p-6 mb-5 h-fit bg-gradient-to-r from-blue-400 to-blue-900 hover:from-indigo-400 hover:to-indigo-800"
             >
               <h3 class="mb-4 text-2xl font-bold text-center tracking-widest">Backend</h3>
               <div class="grid grid-cols-3">
@@ -114,7 +114,7 @@
             </div>
             <div>
               <div
-                class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900"
+                class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900 hover:from-indigo-400 hover:to-indigo-800"
               >
                 <h3 class="mb-4 text-2xl font-bold text-center tracking-widest">Database</h3>
                 <div class="grid grid-cols-4">
@@ -138,7 +138,7 @@
                 </div>
               </div>
               <div
-                class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900"
+                class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-900 hover:from-indigo-400 hover:to-indigo-800"
               >
                 <h3 class="mb-4 text-2xl font-bold text-center tracking-widest">Dev Ops</h3>
                 <div class="grid grid-cols-1">
@@ -152,9 +152,9 @@
         </section>
         <section id="work" class="mb-8 scroll-mt-20 h-screen">
           <h1 class="mb-4 text-2xl font-bold text-center tracking-widest">Work Experience</h1>
-          <div class="grid lg:grid-cols-4 gap-10 text-left">
+          <div class="grid lg:grid-cols-2 gap-10 text-left">
             <div
-              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950 hover:from-indigo-400 hover:to-indigo-800"
             >
               <div class="text-center">Oct 2019 - Dec 2020</div>
 
@@ -187,7 +187,7 @@
               </div>
             </div>
             <div
-              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950 hover:from-indigo-400 hover:to-indigo-800"
             >
               <div class="text-center">Jan 2021 - Jun 2022</div>
 
@@ -220,7 +220,7 @@
               </div>
             </div>
             <div
-              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950 hover:from-indigo-400 hover:to-indigo-800"
             >
               <div class="text-center">Oct 2022 - Feb 2023</div>
 
@@ -255,7 +255,7 @@
               </div>
             </div>
             <div
-              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950"
+              class="rounded-lg shadow-md p-6 mb-5 bg-gradient-to-r from-blue-400 to-blue-950 hover:from-indigo-400 hover:to-indigo-800"
             >
               <div class="text-center">Feb 2023 - Now</div>
 
